@@ -1,0 +1,1 @@
+# ionic-pinch-zoom 
